@@ -5,6 +5,11 @@
     "www/**/*.html",
     "www/build/**/*",
     "www/index.html",
-    "!www/lib/**/*"
-  ]
+    "!www/lib/**/*",
+    "scss/**/*"
+  ],
+  "integrations": {
+    "gulp": {}
+  },
+  "type": "ionic1"
 }
